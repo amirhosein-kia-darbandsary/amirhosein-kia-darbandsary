@@ -3,9 +3,9 @@
   ## I'm a Translator ,  Data Scientist, AI Researcher,  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirhosein-darbandsary-505803207/)
  
 
-  * 🔭 I am Currently working as ** Computer vision developer ** 
+  * 🔭 I am Currently working as **Computer vision developer** 
 
-  - 🌱 I’m currently Learning Data Analytics 😎.
+  - 🌱 I’m currently Learning **Data Analytics** 😎.
 
   
   - 🥅 2022 Goals: Explore the more and more research of Computer vision, Deep learning, Time Series Analysis , Data Analytics and Be a good trader.
