@@ -39,10 +39,6 @@
                     <br /> Pytorch
                 </td>
                 <td align="center" width="140" height="112.43">
-                    <img src="./assets/icons/scikitlearn.png" width="65px"/>
-                    <br /> Scikit Learn
-                </td>
-                <td align="center" width="140" height="112.43">
                     <img src="./assets/icons/fastapi.png" width="65px"/>
                     <br /> FastAPI
                 </td>
