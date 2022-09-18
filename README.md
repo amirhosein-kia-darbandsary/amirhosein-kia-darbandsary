@@ -8,7 +8,7 @@
   - 🌱 I’m currently Learning **Data Analytics** 😎.
 
   
-  - 🥅 2022 Goals: Explore the more and more research of Computer vision, Deep learning, Time Series Analysis , Data Analytics and Be a good trader.
+  - 🥅 2023 Goals: Explore the more and more research of Computer vision, Deep learning, Time Series Analysis , Data Analytics and Be a good trader.
 
   - ⚡ Fun fact: I love to code.
   
