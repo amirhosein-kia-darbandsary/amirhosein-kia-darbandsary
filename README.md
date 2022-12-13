@@ -5,7 +5,7 @@
 
   * 🔭 I am Currently working as **Computer vision developer** 
 
-  - 🌱 I’m currently Learning **Data Analytics** 😎.
+  - 🌱 I’m currently Learning nothing 😎.
 
   
   - 🥅 2023 Goals: Explore the more and more research of Computer vision, Deep learning, Time Series Analysis , Data Analytics and Be a good trader.
