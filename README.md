@@ -1,6 +1,7 @@
 - ### Hi there, I'm AmirHossein Darbandsary👋
 
-  ## I'm a Translator ,  Data Scientist, AI Researcher,  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirhosein-darbandsary-505803207/)
+  ## I'm a Translator ,  Data Scientist, AI Researcher And the important Part : Developer 
+  **My Linkedin Page ** : [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirhosein-darbandsary-505803207/)
  
 
   * 🔭 I am Currently working as **Ai Ml Researcher** 
@@ -8,11 +9,11 @@
   - 🌱 I’m currently Learning nothing 😎.
 
   
-  - 🥅 2023 Goals: Explore the more and more research of Computer vision, Deep learning, Time Series Analysis , Data Analytics and Be a good trader.
+  - 🥅 2023 Goals: Explore the more and more research in my majors and be a good developer;   
 
   - ⚡ Fun fact: I love to code.
   
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosein-kia-darbandsary&langs_count=5&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosein-kia-darbandsary&langs_count=5&theme=synthwave&show_icons=true)]
     
    
     ## ⚡  Technologies I use 
