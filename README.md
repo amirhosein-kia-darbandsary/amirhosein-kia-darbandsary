@@ -12,7 +12,8 @@
   - 🥅 2023 Goals: Explore the more and more research in my majors and be a good developer;   
 
   - ⚡ Fun fact: I love to code.
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/?username=amirhosein-kia-darbandsary&langs_count=5&theme=synthwave&show_icons=true)]
+    
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosein-kia-darbandsary&langs_count=5&theme=synthwave&show_icons=true)]
     
    
