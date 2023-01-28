@@ -19,7 +19,7 @@
   
   ---
  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amirhosein-kia-darbandsary&repo=deeplearning-cheatsheets&theme=jolly&show_icons=true)](https://github.com/amirhosein-kia-darbandsary/deeplearning-cheatsheets)
+
 
   
     ## ⚡  Technologies I use 
