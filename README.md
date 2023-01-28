@@ -1,6 +1,6 @@
 - ### Hi there, I'm AmirHossein Darbandsary👋
 
-  ## I'm a Translator ,  Data Scientist, AI Researcher And the important Part : Developer 
+  ## I'm a   Data Scientist, AI Researcher And the important Part : Developer 
   **My Linkedin Page** : [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirhosein-darbandsary-505803207/)
  
 
