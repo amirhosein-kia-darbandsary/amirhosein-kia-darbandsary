@@ -26,8 +26,8 @@
    
     <br>
     <div align="center">
-        <table align="center">
-            <tr>
+        <table align="center" bordercolor="green" border=3>
+            <tr bordercolor="red" border=2 >
                 <td align="center" width="140" height="112.43">
                     <img src="./assets/icons/python.jpeg" width="65px"/>
                     <br /> Python
@@ -43,8 +43,10 @@
                 <td align="center" width="140" height="112.43">
                     <img src="./assets/icons/pytorch.png" width="65px"/>
                     <br /> Pytorch
-                </td>
-                <td align="center" width="140" height="112.43">
+                </td>  
+            </tr>
+           <tr bordercolor="blue" border=2>
+               <td align="center" width="140" height="112.43">
                     <img src="./assets/icons/fastapi.png" width="65px"/>
                     <br /> FastAPI
                 </td>
@@ -52,14 +54,19 @@
                     <img src="./assets/icons/docker.png" width="65px"/>
                     <br /> Docker
                 </td>
-            </tr>
+                <td align="center" width="140" height="112.43">
+                    <img src="./assets/icons/aws_logo_smile_1200x630.png" width="65px"/>
+                    <br /> aws
+                </td>
+                 <td align="center" width="140" height="112.43">
+                    <img src="./assets/icons/action.png" width="65px"/>
+                    <br /> GitHub action
+                </td>
+           </tr>
         </table>
     </div>
     <br>
     
-
-
-
 
 ---
 
