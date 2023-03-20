@@ -14,7 +14,7 @@
   - ⚡ Fun fact: I love to *CODE*.
   ---
   
-  [![Stat](https://github-readme-stats.vercel.app/api/?username=amirhosein-kia-darbandsary&langs_count=5&theme=outrun&show_icons=true&include_all_commits=true)]  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosein-kia-darbandsary&langs_count=5&theme=yeblu&show_icons=true)]
+  [![Stat](https://github-readme-stats.vercel.app/api/?username=amirhosein-kia-darbandsary&langs_count=5&theme=outrun&show_icons=true)]  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosein-kia-darbandsary&langs_count=5&theme=yeblu&show_icons=true)]
     
   
   ---
