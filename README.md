@@ -26,8 +26,8 @@
    
     <br>
     <div align="center">
-        <table align="center" bordercolor="green" border=3>
-            <tr bordercolor="red" border=2 >
+        <table align="center" >
+            <tr bordercolor="red">
                 <td align="center" width="140" height="112.43">
                     <img src="./assets/icons/python.jpeg" width="65px"/>
                     <br /> Python
@@ -61,6 +61,34 @@
                  <td align="center" width="140" height="112.43">
                     <img src="./assets/icons/action.png" width="65px"/>
                     <br /> GitHub action
+                </td>
+           </tr>
+        </table>
+    </div>
+    <br>
+    
+    
+    ## ⚡  Majors I've Experience in it
+    
+   <br>
+    <div align="center">
+        <table align="center" >
+           <tr bordercolor="blue" >
+               <td align="center" width="140" height="112.43">
+                    <img src="./assets/icons/1.jpeg" width="65px"/>
+                    <br /> Reinforcment Learning
+                </td>
+                <td align="center" width="140" height="112.43">
+                    <img src="./assets/icons/2.jpg" width="65px"/>
+                    <br /> Deep Learning
+                </td>
+                <td align="center" width="140" height="112.43">
+                    <img src="./assets/icons/3.png" width="65px"/>
+                    <br /> Federated Learning
+                </td>
+                 <td align="center" width="140" height="112.43">
+                    <img src="./assets/icons/4.jpeg" width="65px"/>
+                    <br /> Machine Learning
                 </td>
            </tr>
         </table>
