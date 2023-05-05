@@ -1,6 +1,5 @@
 # 💫 About Me:
-- ### Hi there, I'm AmirHossein Darbandsary👋<br><br>  ## I'm a   Data Scientist, AI Researcher And the important Part : Developer <br>https://www.linkedin.com/in/amirhosein-darbandsary-505803207/)<br> <br><br>  * 🔭 I am Currently working as **Ai Ml Researcher&Developer** <br><br>  - 🌱 I’m currently Learning  All the things related to my **Major** 😎.<br><br>  <br>  - 🥅 2023 Goals: Explore the more and more research in my majors AND to be a better developer;   <br><br>  - ⚡ Fun fact: I love to *CODE*.<br>  ---<br>     <br>  <br>  ---<br> 
-
+- ### Hi there, I'm AmirHossein Darbandsary👋<br><br>  ## I'm a   Data Scientist, AI Researcher And the important Part : Developer <br>https://www.linkedin.com/in/amirhosein-darbandsary-505803207/)<br> <br><br>  * 🔭 I am Currently working as **Ai Ml Researcher&Developer** <br><br>  - 🌱 I’m currently Learning  All the things related to my **Major** 😎.<br><br>  <br>  - 🥅 2023 Goals: Explore the more and more research in my majors AND to be a better developer;   <br><br>  - ⚡ Fun fact: I love to *CODE*.<br> 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amir_pv_kia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirhossein-darbandsari) 
