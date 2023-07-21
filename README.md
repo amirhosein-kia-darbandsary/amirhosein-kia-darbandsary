@@ -1,5 +1,5 @@
 # 💫 About Me:
-- ### Hi there, I'm AmirHossein Darbandsary👋<br><br>  ## I'm a  machine learning engineer, AI Researcher And the important Part : Developer <br><br>  * 🔭 I am Currently working as **Machine learning engineer** <br><br>  - 🌱 I’m currently Learning  All the things related to my **Major** 😎.<br><br>  <br>  - 🥅 2023 Goals: be good software desinger and software engineer who can code like a senior and try to be a linux admin server   <br><br>  - ⚡ Fun fact: I love to *CODE*.<br> 
+- ### Hi there, I'm AmirHossein Darbandsary👋<br><br>  ## I'm a  machine learning engineer, AI Researcher And the important Part : Developer <br><br>  * 🔭 I am Currently working as **Machine learning engineer** <br><br>  - 🌱 I’m currently Learning  All the things related to my **Major** 😎.<br><br>  <br>  - 🥅 2024 Goals: be good software desinger and software engineer who can code like a senior and try to be a linux admin server   <br><br>  - ⚡ Fun fact: I love to *CODE*.<br> 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amir_pv_kia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirhossein-darbandsari-505803207/) 
