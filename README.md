@@ -1,5 +1,5 @@
 # 💫 About Me:
-- ### Hi there, I'm AmirHossein Darbandsary👋<br><br>  ## I'm a  Developer,/<br><br>  * 🔭 I am Currently working as **developer** <br><br>  - 🌱 I’m currently Learning  All the things related to my **Major** 😎.<br><br>  <br>  - 🥅 2024 Goals: be good software desinger and software engineer<br><br>  - ⚡ Fun fact: I love to *CODE*.<br> 
+- ### Hi there, I'm AmirHossein Darbandsary👋<br><br> I'm a  Developer <br><br>  * 🔭 I am Currently working as **developer** <br><br>  - 🌱 I’m currently Learning  All the things related to my **Major** 😎.<br><br>  <br>  - 🥅 2024 Goals: be good software desinger and software engineer<br><br>  - ⚡ Fun fact: I love to *CODE*.<br> 
 
 ## 🌐 Socials:
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/amir__pv__kia/)
