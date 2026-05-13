@@ -62,8 +62,7 @@ class AmirHossein:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,mysql,redis,mongodb,docker,kubernetes,linux,git,github,nginx,bash,js,ts,nodejs,react,html,css" />
-
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,mysql,redis,mongodb,docker,kubernetes,linux,git,github,nginx,bash,ansible,grafana,prometheus" />
 </div>
 
 ---
