@@ -17,7 +17,7 @@ class AmirHossein:
 
     def __init__(self):
         self.role = "Backend Developer"
-        self.language = ["Python", "JavaScript", "TypeScript"]
+        self.language = ["Python"]
         self.interests = [
             "Backend Development",
             "Distributed Systems",
