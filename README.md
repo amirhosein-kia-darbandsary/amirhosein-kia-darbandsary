@@ -13,12 +13,11 @@
 ---
 
 
-# 🎧 Now Playing (Spotify)
+# 🎧 Now Playing
 
 <div align="center">
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=4DkR6LzdMfUKiqCjiLMLr8&theme=novatorem" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DB954&center=true&vCenter=true&width=600&lines=Listening+to+Lo-fi+%F0%9F%8E%A7;Coding+with+Focus+Mode;Building+Scalable+Systems" /></div>
 
 ---
 
@@ -94,18 +93,6 @@ class AmirHossein:
 - 🧠 AI + LLM + RAG Systems
 - 📦 System Design at Scale
 - 🔐 High Performance APIs
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amirhosein-kia-darbandsary&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosein-kia-darbandsary&layout=compact&theme=midnight-purple"/>
-
-</div>
 
 ---
 
