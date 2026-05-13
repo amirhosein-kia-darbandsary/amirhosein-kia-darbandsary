@@ -13,4 +13,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amirhosein-kia-darbandsary&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-![snake animation](https://github.com/amirhosein-kia-darbandsary/amirhosein-kia-darbandsary/blob/output/github-contribution-grid-snake2.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amirhosein-kia-darbandsary/amirhosein-kia-darbandsary/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
