@@ -12,12 +12,13 @@
 
 ---
 
-
 # 🎧 Now Playing
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DB954&center=true&vCenter=true&width=600&lines=Listening+to+Lo-fi+%F0%9F%8E%A7;Coding+with+Focus+Mode;Building+Scalable+Systems" /></div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=🎵+Dariush+-+Yavar+Hamishg+Momen;🎶+Listening+to+Persian+Classics;🎧+Coding+with+Nostalgia+Vibes;💛+Old+School+Music+Mode" />
+
+</div>
 
 ---
 
