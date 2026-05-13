@@ -4,8 +4,20 @@
 
 ### Backend Developer | Software Engineer | AI Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Backend+Developer;FastAPI+%7C+Django+%7C+DevOps;AI+and+Distributed+Systems+Enthusiast;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=700&lines=Backend+Developer;FastAPI+%7C+Django+%7C+DevOps;AI+%7C+RAG+%7C+LLMs+Enthusiast;System+Design+%7C+Distributed+Systems;Always+Learning+New+Things+🚀" />
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+
+</div>
+
+---
+
+
+# 🎧 Now Playing (Spotify)
+
+<div align="center">
+
+<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=4DkR6LzdMfUKiqCjiLMLr8&theme=novatorem" />
 </div>
 
 ---
@@ -18,23 +30,30 @@ class AmirHossein:
     def __init__(self):
         self.role = "Backend Developer"
         self.language = ["Python"]
+        self.stack = [
+            "FastAPI",
+            "Django",
+            "PostgreSQL",
+            "Redis",
+            "Docker",
+            "Kubernetes"
+        ]
         self.interests = [
-            "Backend Development",
+            "System Design",
             "Distributed Systems",
             "DevOps",
-            "Artificial Intelligence",
-            "System Design"
+            "AI Engineering",
+            "RAG Systems",
+            "LLM Applications"
         ]
+        self.current_focus = "Scalable backend + AI systems"
+
+    def motto(self):
+        return "Code. Build. Scale. Automate."
 
     def say_hi(self):
         print("Thanks for visiting my profile 🚀")
 ```
-
-- 🔭 Currently working as a **Backend Developer**
-- 🌱 Learning more about **DevOps, Distributed Systems, AI & System Design**
-- 💡 Passionate about building scalable and production-ready applications
-- ⚡ Love solving problems and writing clean architecture
-- 🧠 Interested in AI, LLMs, RAG Systems and High Performance APIs
 
 ---
 
@@ -62,17 +81,19 @@ class AmirHossein:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,mysql,redis,mongodb,docker,kubernetes,linux,git,github,nginx,bash,ansible,grafana,prometheus" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,mysql,redis,mongodb,docker,kubernetes,linux,git,github,nginx,bash,ansible,grafana,prometheus,kafka,elasticsearch,react,typescript" />
+
 </div>
 
 ---
 
 # 🚀 Current Focus
 
-- Building scalable backend systems
-- Learning advanced DevOps concepts
-- Working with AI & RAG architectures
-- Designing clean and maintainable software architectures
+- ⚙️ Building **Scalable Backend Systems**
+- ☁️ Cloud & DevOps Automation
+- 🧠 AI + LLM + RAG Systems
+- 📦 System Design at Scale
+- 🔐 High Performance APIs
 
 ---
 
@@ -82,7 +103,7 @@ class AmirHossein:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amirhosein-kia-darbandsary&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosein-kia-darbandsary&layout=compact&langs_count=8&theme=midnight-purple"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosein-kia-darbandsary&layout=compact&theme=midnight-purple"/>
 
 </div>
 
@@ -92,7 +113,7 @@ class AmirHossein:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amirhosein-kia-darbandsary&theme=midnight-purple&hide_border=false"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amirhosein-kia-darbandsary&theme=midnight-purple"/>
 
 </div>
 
@@ -118,18 +139,33 @@ class AmirHossein:
 
 ---
 
-# 🐍 Contribution Snake
+# 🧠 Dev Quote
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/amirhosein-kia-darbandsary/amirhosein-kia-darbandsary/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 </div>
 
 ---
 
+# 🐍 Contribution Snake
+
 <div align="center">
 
-### 🚀 “Code. Learn. Build. Repeat.”
+<img src="https://raw.githubusercontent.com/amirhosein-kia-darbandsary/amirhosein-kia-darbandsary/output/github-contribution-grid-snake.svg" />
 
 </div>
+
+
+---
+
+# 🚀 Final Quote
+
+<div align="center">
+
+### “Build systems that scale, not just code that runs.”
+
+</div>
+
+---
